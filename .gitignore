@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+# original graphic files
+*.psd
+*.eps
+*.ai
+
+# Silly Macs
+.DS_Store
