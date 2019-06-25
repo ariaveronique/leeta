@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "description": "Bartender Discord bot written for Discord Community Hack Week 2019",
   "private": true,
-  "main": "index.js",
+  "main": "leeta.js",
   "dependencies": {
     "discord.js": "^11.5.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-transform-modules-commonjs": "^7.4.4"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
