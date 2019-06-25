@@ -67,3 +67,6 @@ typings/
 
 # Silly Macs
 .DS_Store
+
+# No creds allowed
+.discord-creds.txt

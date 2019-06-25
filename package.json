@@ -1,0 +1,24 @@
+{
+  "name": "leeta",
+  "version": "1.0.0",
+  "description": "![Leeta](images/leetalogo-readme.png)",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariaveronique/leeta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ariaveronique/leeta/issues"
+  },
+  "homepage": "https://github.com/ariaveronique/leeta#readme"
+}
