@@ -70,3 +70,5 @@ typings/
 
 # No creds allowed
 .discord-creds.txt
+config.json
+
