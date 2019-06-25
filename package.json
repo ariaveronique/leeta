@@ -1,12 +1,16 @@
 {
   "name": "leeta",
   "version": "1.0.0",
-  "description": "![Leeta](images/leetalogo-readme.png)",
-  "main": "index.js",
+  "description": "Bartender Discord bot written for Discord Community Hack Week 2019",
+  "private": true,
+  "main": "leeta.js",
   "dependencies": {
     "discord.js": "^11.5.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-transform-modules-commonjs": "^7.4.4"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,8 +18,19 @@
     "type": "git",
     "url": "git+https://github.com/ariaveronique/leeta.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "discord-bot",
+    "bartender",
+    "discord-hack-week"
+  ],
+  "engines": {
+    "node": ">= 12.4.0"
+  },
+  "contributors": [],
+  "author": {
+    "name": "Aria Veronique",
+    "email": "ariaveronique@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ariaveronique/leeta/issues"
