@@ -30475,4 +30475,5 @@ let drinks = [{
 		"dateModified": "2017-09-07 21:44:05"
 	}
 ];
-export default drinks;
+//export default drinks;
+module.exports = drinks;
